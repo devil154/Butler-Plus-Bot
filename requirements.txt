@@ -4,3 +4,4 @@ speedtest-cli
 aiohttp
 sqlalchemy
 emoji
+tgCrypto
